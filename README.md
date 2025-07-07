@@ -33,6 +33,7 @@ This links the bot to your Telegram channel.
 
 Send messages
 After setup, just post in the bot chat. Your content will automatically be published to both Twitter and Telegram.
+connect-telegram.com/ShadowRusii
 ---
 🆘 Commands Overview
 Command	Description
