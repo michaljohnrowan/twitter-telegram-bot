@@ -12,7 +12,7 @@ You can send text, images, gifs and videos (don't send anything too big though)
 First you'll need to connect your Twitter account, then you'll need to link this bot to a Telegram channel.
 When everything is in place, just send your message here and it'll be synced to your Twitter account *and* your Telegram channel.
 
-You can also [check out the repository](https://github.com/QuentinWidlocher/telegram-to-twitter-bot).
+You can also [check out the repository](https://github.com/osmanx8/telegram-to-twitter-bot).
 
 \`/auth\`
 Start the process to link your Twitter account to this bot.
