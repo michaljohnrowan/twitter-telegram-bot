@@ -21,7 +21,9 @@ Start the bot in Telegram
 Authenticate your Twitter account
 /auth
 Link a Telegram Channel
-/link @your_channel_username
+/link 
+@your_channel_username
+
 This links the bot to your Telegram channel.
 🔹 Make sure the bot is an admin in your channel.
 🔁 Run again if you need to change channels.
@@ -30,9 +32,12 @@ After setup, just post in the bot chat. Your content will automatically be publi
 ---
 🆘 Commands Overview
 Command	Description
-/auth	Start the Twitter OAuth login process
-/link @channel	Link a Telegram channel (must follow /auth first)
-/help	Display help and usage instructions
+/auth	
+Start the Twitter OAuth login process
+/link 
+@channel	Link a Telegram channel (must follow /auth first)
+/help	
+Display help and usage instructions
 ---
 🔐 Requirements
 A Twitter Developer App with read/write permissions
