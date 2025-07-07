@@ -34,10 +34,13 @@ After setup, just post in the bot chat. Your content will automatically be publi
 Command	Description
 /auth	
 Start the Twitter OAuth login process
+
 /link 
 @channel	Link a Telegram channel (must follow /auth first)
+
 /help	
 Display help and usage instructions
+
 ---
 🔐 Requirements
 A Twitter Developer App with read/write permissions
