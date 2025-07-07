@@ -21,12 +21,16 @@ Start the bot in Telegram
 Authenticate your Twitter account
 /auth
 Link a Telegram Channel
+
 /link 
 @your_channel_username
 
 This links the bot to your Telegram channel.
+
 🔹 Make sure the bot is an admin in your channel.
+
 🔁 Run again if you need to change channels.
+
 Send messages
 After setup, just post in the bot chat. Your content will automatically be published to both Twitter and Telegram.
 ---
