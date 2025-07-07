@@ -1,4 +1,4 @@
-📣 Telegram to Twitter Bot
+📣 Telegram to Twitter web3 Bot
 Easily sync messages between Telegram and Twitter using this simple Node.js bot. Post once in Telegram — and have it automatically published to your Twitter account with support for text, images, GIFs, and videos (within Twitter size limits).
 
 This bot is perfect for content creators, community managers, or anyone who wants to broadcast updates across both platforms at the same time.
